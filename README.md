@@ -6,6 +6,5 @@
 
 Here is a [tutorial on how to use GitHub and GitHub classroom as a student](https://github.com/jfiksel/github-classroom-for-students/tree/master)
 
-This video shows how to work on an assignment: [VIDEO](https://www.youtube.com/watch?v=ObaFRGp_Eko&list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u&index=5)
-
+This video shows how to work on an assignment:
 [![YouTube Video tutorial](https://img.youtube.com/vi/ObaFRGp_Eko/0.jpg)](https://www.youtube.com/watch?v=ObaFRGp_Eko)
