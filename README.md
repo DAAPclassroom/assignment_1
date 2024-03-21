@@ -2,7 +2,7 @@
 
 # Assignment 1
 
-## Cours:e Data Analysis for Astronomy and Physics, summer term 2024
+## Course: Data Analysis for Astronomy and Physics, summer term 2024
 
 ## Due date: 30. April 2024
 
